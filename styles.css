@@ -281,6 +281,19 @@ a {
   margin-top: 28px;
 }
 
+/* ---------- Blueprint ---------- */
+
+.blueprint-copy {
+  font-size: 15px;
+  color: var(--text-muted);
+  max-width: 760px;
+  margin: 0 auto 18px;
+}
+
+.blueprint .btn {
+  margin-top: 12px;
+}
+
 /* ---------- Work with us ---------- */
 
 .work .container {
